@@ -1,0 +1,17 @@
+#square{
+	width: 100px;
+	height: 100px;
+	border-style: dotted; /* solid */
+	border-width: 5px;
+	border-color: blue;
+
+	background-color: greenyellow;
+}
+#circle{
+	width: 200px;
+	height: 200px;
+    
+    border:solid 7px green; 
+
+    border-radius:25px;
+}
